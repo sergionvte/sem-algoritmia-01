@@ -1,0 +1,33 @@
+# ninja log v5
+1	463	1706146396367182109	Actividad01_autogen/timestamp	4c73294bec329123
+1	463	1706146396367182109	Actividad01_autogen/mocs_compilation.cpp	4c73294bec329123
+1	463	1706146396367182109	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/Actividad01_autogen/timestamp	4c73294bec329123
+1	463	1706146396367182109	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/Actividad01_autogen/mocs_compilation.cpp	4c73294bec329123
+463	3015	1706146398927193774	CMakeFiles/Actividad01.dir/Actividad01_autogen/mocs_compilation.cpp.o	657131ce01baf87f
+463	3087	1706146398999194102	CMakeFiles/Actividad01.dir/main.cpp.o	28fce1d1d382b590
+7	35	1706146417811279824	Actividad01_autogen/timestamp	4c73294bec329123
+7	35	1706146417811279824	Actividad01_autogen/mocs_compilation.cpp	4c73294bec329123
+7	35	1706146417811279824	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/Actividad01_autogen/timestamp	4c73294bec329123
+7	35	1706146417811279824	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/Actividad01_autogen/mocs_compilation.cpp	4c73294bec329123
+39	3162	1706146420935294060	CMakeFiles/Actividad01.dir/mainwindow.cpp.o	6824133555d66ceb
+3163	3812	1706146421579296994	Actividad01	a3bfbe4296d46e2c
+3	46	1706146562427938818	Actividad01_autogen/timestamp	4c73294bec329123
+3	46	1706146562427938818	Actividad01_autogen/mocs_compilation.cpp	4c73294bec329123
+3	46	1706146562427938818	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/Actividad01_autogen/timestamp	4c73294bec329123
+3	46	1706146562427938818	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/Actividad01_autogen/mocs_compilation.cpp	4c73294bec329123
+49	2799	1706146565179951359	CMakeFiles/Actividad01.dir/main.cpp.o	28fce1d1d382b590
+49	2950	1706146565331952051	CMakeFiles/Actividad01.dir/mainwindow.cpp.o	6824133555d66ceb
+2950	3586	1706146565959954913	Actividad01	a3bfbe4296d46e2c
+4	43	1706146832969171591	Actividad01_autogen/timestamp	4c73294bec329123
+4	43	1706146832969171591	Actividad01_autogen/mocs_compilation.cpp	4c73294bec329123
+4	43	1706146832969171591	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/Actividad01_autogen/timestamp	4c73294bec329123
+4	43	1706146832969171591	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/Actividad01_autogen/mocs_compilation.cpp	4c73294bec329123
+46	3092	1706146836013185463	CMakeFiles/Actividad01.dir/mainwindow.cpp.o	6824133555d66ceb
+3092	3695	1706146836613188196	Actividad01	a3bfbe4296d46e2c
+3	78	1706146897673466432	Actividad01_autogen/timestamp	4c73294bec329123
+3	78	1706146897673466432	Actividad01_autogen/mocs_compilation.cpp	4c73294bec329123
+3	78	1706146897673466432	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/Actividad01_autogen/timestamp	4c73294bec329123
+3	78	1706146897673466432	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/Actividad01_autogen/mocs_compilation.cpp	4c73294bec329123
+81	3069	1706146900661480048	CMakeFiles/Actividad01.dir/main.cpp.o	28fce1d1d382b590
+81	3226	1706146900817480759	CMakeFiles/Actividad01.dir/mainwindow.cpp.o	6824133555d66ceb
+3226	3840	1706146901425483530	Actividad01	a3bfbe4296d46e2c

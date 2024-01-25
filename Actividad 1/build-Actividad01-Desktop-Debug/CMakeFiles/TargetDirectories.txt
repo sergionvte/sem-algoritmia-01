@@ -1,0 +1,9 @@
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/CMakeFiles/Actividad01.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/CMakeFiles/install.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/CMakeFiles/install/local.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/CMakeFiles/Actividad01_autogen_timestamp_deps.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 1/build-Actividad01-Desktop-Debug/CMakeFiles/Actividad01_autogen.dir
